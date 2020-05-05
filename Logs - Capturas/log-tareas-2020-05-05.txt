@@ -1,0 +1,19 @@
+13:42:34 [Tarea 1]: La tarea ha comenzado.
+13:42:34 [Tarea 1]: La tarea va a ejecutar la accion de'Abrir Chrome'.
+13:42:34 [Tarea 1]: La tarea va a ejecutar la accion de'Enviarme un mail'.
+13:42:34 [Tarea 1]: La tarea va a ejecutar la accion de'Enviarme Hola!'.
+13:42:42 [Tarea 1]: La tarea ha finalizado.
+13:43:34 [Tarea 1]: La tarea ha comenzado.
+13:43:34 [Tarea 1]: La tarea va a ejecutar la accion de'Abrir Chrome'.
+13:43:34 [Tarea 1]: La tarea va a ejecutar la accion de'Enviarme un mail'.
+13:43:34 [Tarea 1]: La tarea va a ejecutar la accion de'Enviarme Hola!'.
+13:43:41 [Tarea 1]: La tarea ha finalizado.
+13:44:34 [Tarea 1]: La tarea ha comenzado.
+13:44:34 [Tarea 1]: La tarea va a ejecutar la accion de'Abrir Chrome'.
+13:44:34 [Tarea 1]: La tarea va a ejecutar la accion de'Enviarme un mail'.
+13:44:34 [Tarea 1]: La tarea va a ejecutar la accion de'Enviarme Hola!'.
+13:44:41 [Tarea 1]: La tarea ha finalizado.
+13:45:34 [Tarea 1]: La tarea ha comenzado.
+13:45:34 [Tarea 1]: La tarea va a ejecutar la accion de'Abrir Chrome'.
+13:45:34 [Tarea 1]: La tarea va a ejecutar la accion de'Enviarme un mail'.
+13:45:34 [Tarea 1]: La tarea va a ejecutar la accion de'Enviarme Hola!'.
